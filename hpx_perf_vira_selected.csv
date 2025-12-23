@@ -1,0 +1,36 @@
+Summary,Status,Issue key,Issue id,Created,Updated,Reporter
+cloudmapreceiver mem allocation  in Run state,To Do,COLLAB_VCZEN-6924,4941487,2025-12-16 10:00,2025-12-18 08:44,NMAHMUD
+ New Memory Allocation after platform state kRun:vehicle_location_transmitter,In Progress,COLLAB_VCZEN-6707,4884924,2025-11-04 09:12,2025-12-22 13:25,GASATI
+New Memory Allocation after platform state kRun:probe-source-maps-transceiver-service,In Progress,COLLAB_VCZEN-6706,4884918,2025-11-04 09:05,2025-12-22 13:23,GASATI
+zen_qm_src_vision  mem allocation in Run state,Closed,COLLAB_VCZEN-6612,4856275,2025-10-13 13:44,2025-11-18 11:31,GASATI
+New memory allocation by zen_qm_src_vision,Closed,COLLAB_VCZEN-6405,4791439,2025-08-26 11:39,2025-09-17 12:54,GASATI
+"[SPA2_INT][devb-ram allocates dynamic memory during ""RUN"" state][CSAI]",In Progress,COLLAB_VCNVIDIA-509,4776858,2025-08-11 15:13,2025-12-15 11:58,GASATI
+[VCC-SPA2-GEN3][DOS7.x] memory allocation by nvhvblk,Analysis,COLLAB_VCNVIDIA-391,4579660,2025-03-14 13:59,2025-12-10 13:26,GASATI
+memory allocation by surface_temperature_manager_server,Closed,ARTSE-25402,4806183,2025-09-05 14:09,2025-10-16 16:23,GASATI
+homelink_manager_impl mem allocation  in Run state,Closed,ARTREM-29340,4851056,2025-10-08 08:53,2025-11-04 16:16,NMAHMUD
+memory allocation by io-pkt digital-key,Closed,ARTREM-29070,4806172,2025-09-05 14:00,2025-10-07 09:02,GASATI
+dkey_server mem allocation  in Run state,Closed,ARTMOBX-8686,4851053,2025-10-08 08:50,2025-11-10 08:51,NMAHMUD
+New Memory Allocation after platform state kRun:hands-off-detection,Closed,ARTISP-1921,4865544,2025-10-22 08:07,2025-12-12 09:47,GASATI
+memory allocation by ergonomicscoordinator,Closed,ARTINFO-150341,4838192,2025-09-24 15:41,2025-10-14 13:30,NMAHMUD
+googlemapcontribution* mem allocation during driving,Closed,ARTINFO-149220,4814668,2025-09-09 16:17,2025-10-20 14:41,NMAHMUD
+memory allocation by settings-service,Closed,ARTINFO-148888,4806184,2025-09-05 14:12,2025-11-04 16:16,GASATI
+New memory allocation from dhu-fault-proxy after platform state kRun,Analysis,ARTHTP-136,4751235,2025-06-30 13:31,2025-12-12 09:47,GASATI
+memory allocation by io-pkt,Closed,ARTHPP-25193,4669846,2025-05-09 11:43,2025-10-09 09:54,GASATI
+smart-charging mem allocation during driving,Closed,ARTEE-12949,4785932,2025-08-20 14:03,2025-11-13 14:20,NMAHMUD
+New Memory Allocation after platform state kRun:infotainment_climate_adapter,Closed,ARTDVI-20772,4865543,2025-10-22 08:06,2025-11-17 11:45,GASATI
+New Memory Allocation after platform state kRun:vehicle-setting-input-adapter,Closed,ARTDVI-20539,4858500,2025-10-14 22:37,2025-11-07 12:33,ANABAIT
+vehicle-status-adapter mem allocation  in Run state,Closed,ARTDVI-20500,4857709,2025-10-14 11:06,2025-11-04 16:16,NMAHMUD
+memory allocation by indicationmanager,Closed,ARTDVI-19302,4806190,2025-09-05 14:15,2025-09-25 12:16,GASATI
+"[SPA2_INT][indicationmanager allocates dynamic memory during ""RUN"" state][CSAI]",In Progress,ARTDVI-18088,4763639,2025-07-16 07:43,2025-12-19 09:04,HARGEMID
+"[SPA2_INT][diagnostic_monitors allocates dynamic memory during ""RUN"" state][CSAI]",Closed,ARTCEE-2559,4758682,2025-07-08 13:06,2025-11-21 13:11,HARGEMID
+sga_comm_service mem allocation  in Run state,Pre-Analysis,ARTCAPS-1634,4856328,2025-10-13 12:40,2025-12-18 14:50,NMAHMUD
+New Memory Allocation after platform state kRun:data_forwarder_runner_qm1,Open,ARTCAPS-1027,4865546,2025-10-22 08:10,2025-12-18 13:45,GASATI
+Application /opt/apps/bin/diagnostic_watchdog_monitor is allocating heap memory during Driving,In Progress,ARTCAPS-1026,4191617,2024-05-24 17:37,2025-12-22 13:19,BCHELLAG
+New Memory Allocation after platform state kRun:data_forwarder_runner_qm3,Open,ARTCAPS-1023,4865545,2025-10-22 08:09,2025-12-23 09:40,GASATI
+"[SPA2_INT][data_forwarder_runner allocates dynamic memory during ""RUN"" state][CSAI]",Open,ARTCAPS-1019,4743390,2025-06-23 14:38,2025-12-18 13:52,HARGEMID
+deviceadmin mem allocation  in Run state,Closed,ARTCAPS-45,4851036,2025-10-08 08:25,2025-11-20 09:11,NMAHMUD
+statistical_data_aggregator mem allocation  in Run state,Closed,ARTBTS-20212,4857088,2025-10-14 09:11,2025-10-23 15:56,NMAHMUD
+diagnostic-kernel mem allocation  in Run state,Closed,ARTBTS-20095,4851045,2025-10-08 08:42,2025-11-10 12:24,NMAHMUD
+memory allocation by installation-master ,Closed,ARTBTS-19726,4831874,2025-09-19 07:52,2025-12-22 13:31,GASATI
+"[SPA2_INT][installation_master allocates dynamic memory during ""RUN"" state][CSAI]",Analysis,ARTBTS-18644,4763635,2025-07-16 07:27,2025-12-22 13:31,HARGEMID
+New Memory Allocation after platform state kRun:low-voltage-energy-coordinator,Closed,ARTBASE-67880,4865540,2025-10-22 08:02,2025-11-04 16:16,GASATI
