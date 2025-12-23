@@ -1,5 +1,5 @@
 Summary,Status,Issue key,Issue id,Created,Updated,Reporter
-cloudmapreceiver mem allocation  in Run state,To Do,COLLAB_VCZEN-6924,4941487,2025-12-16 10:00,2025-12-18 08:44,NMAHMUD
+cloudmapreceiver-mem allocation  in Run state,To Do,COLLAB_VCZEN-6924,4941487,2025-12-16 10:00,2025-12-23 11:31,NMAHMUD
  New Memory Allocation after platform state kRun:vehicle_location_transmitter,In Progress,COLLAB_VCZEN-6707,4884924,2025-11-04 09:12,2025-12-22 13:25,GASATI
 New Memory Allocation after platform state kRun:probe-source-maps-transceiver-service,In Progress,COLLAB_VCZEN-6706,4884918,2025-11-04 09:05,2025-12-22 13:23,GASATI
 zen_qm_src_vision  mem allocation in Run state,Closed,COLLAB_VCZEN-6612,4856275,2025-10-13 13:44,2025-11-18 11:31,GASATI
@@ -32,5 +32,5 @@ deviceadmin mem allocation  in Run state,Closed,ARTCAPS-45,4851036,2025-10-08 08
 statistical_data_aggregator mem allocation  in Run state,Closed,ARTBTS-20212,4857088,2025-10-14 09:11,2025-10-23 15:56,NMAHMUD
 diagnostic-kernel mem allocation  in Run state,Closed,ARTBTS-20095,4851045,2025-10-08 08:42,2025-11-10 12:24,NMAHMUD
 memory allocation by installation-master ,Closed,ARTBTS-19726,4831874,2025-09-19 07:52,2025-12-22 13:31,GASATI
-"[SPA2_INT][installation_master allocates dynamic memory during ""RUN"" state][CSAI]",Analysis,ARTBTS-18644,4763635,2025-07-16 07:27,2025-12-22 13:31,HARGEMID
+"installation_master-allocates dynamic memory during ""RUN"" state][CSAI]",Analysis,ARTBTS-18644,4763635,2025-07-16 07:27,2025-12-23 11:32,HARGEMID
 New Memory Allocation after platform state kRun:low-voltage-energy-coordinator,Closed,ARTBASE-67880,4865540,2025-10-22 08:02,2025-11-04 16:16,GASATI
